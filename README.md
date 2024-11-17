@@ -1,4 +1,4 @@
-<div align='center'><h1> 谢 炯儒 (XIE Jiongru) :pray:</h1></div>
+<div align='center'><h1> Welcome to Jiongru`s Paradise :european_castle:</h1></div>
 <div align="center">
 </div>
 
@@ -12,8 +12,8 @@
   <img align="right" alt="jiongru's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 </a>
 
-### Hi visitors👋 
-- :school: I'm [XIE Jiongru](https://xiejiongru.github.io/), pursuing a **MSc Geoinformatic** from <a href="https://ensg.eu/fr">French National School of Geographic Sciences  </a>
+### Hello World👋 
+- :school: This is 谢 炯儒  ([XIE Jiongru](https://xiejiongru.github.io/)), I`m pursuing a **MSc Geoinformatic** at <a href="https://ensg.eu/fr">French National School of Geographic Sciences  </a>
 - 🔭 I’m currently working on  **GIS Development**, **LIDAR data**...
 - :neutral_face: I have a **love / hate** relationship with **Programming** <!-- - 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core** -->
 - 🤔 I’m looking for help with Algorithms 😭
