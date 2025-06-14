@@ -1,0 +1,121 @@
+# XIE Jiongru
+
+🔁 Mon fil rouge : Automatiser, prédire, et monitorer — à l'intersection de l'IA et du DevOps.
+
+**AI-Driven DevOps Engineer | Géomaticien des Infrastructures Critiques**
+ 📧 [jiongru.xie@ensg.eu](mailto:jiongru.xie@ensg.eu) | 📱 +33 0744408633
+ 🔗 [LinkedIn](https://www.linkedin.com/in/xiejiongru) | 🌍 Visa étudiant
+
+------
+
+## 🌟 Profil Professionnel
+
+✨ Ingénieur DevOps passionné par l'IA et les systèmes critiques géospatiaux
+ ⚙️ Expertise : automatisation (Ansible, Docker), monitoring (Grafana), prédiction capacitaire (Prophet/SARIMA)
+ 🌐 Trilingue (FR/EN/ZH) avec expérience interculturelle, prêt à activer l'IA dans des environnements à fort impact
+
+### 🔍 Objectif
+
+Rejoindre une équipe tech IA/DevOps pour concevoir des solutions scalables et intelligentes.
+
+------
+
+## 🎓 Formations
+
+**Master 2 en Géomatique** – Technologies des Systèmes d'Information
+ *ENSG (Ecole Nationale des Sciences Géographiques)* | 2023–2025
+ Modules : Data Science, DevOps, Deep Learning, SIG 3D, Computer Vision
+
+**Licence en Géographie et Aménagement** – Urbanisme
+ *Université Grenoble Alpes* | 2020–2023
+
+**Erasmus en Architecture**
+ *Ecole Polytechnique de Cracovie* | 2022–2023
+
+------
+
+- ## 💼 Expériences Professionnelles
+
+  ### **Stage DevOps Géospatial** | *Enedis (DSI - Train Géomatique)*
+
+  *Mai 2025 – Présent* | Paris  
+  **Optimisation des infrastructures géospatiales (180M+ requêtes/sem)**
+
+  - 🚀 **Déployé** une plateforme de monitoring unifiée (Telegraf/InfluxDB/Grafana) pour 40+ applications critiques  
+  - 🤖 **Automatisé** le scaling d'infrastructure via des playbooks Ansible (+15% d'efficacité)  
+  - 🧪 **Intégré** un système de tests de charge containerisé (JMeter + GitLab CI/CD)  
+  - 🔮 **Développé** des modèles prédictifs de charge (SARIMA/Prophet) réduisant les risques de saturation de 30%  
+  - 🛠️ Stack : Docker • Ansible • GitLab CI/CD • vSphere • ArcGIS/FME • Python (PyTorch)
+
+  ### **Stage Ingénieur Données Géospatiales** | *eOnsight*
+
+  *Juin 2024 – Septembre 2024* | Remote  
+  **Base de données centralisée pour infrastructures critiques (ponts/ouvrages d'art)**
+
+  - 🗂️ **Conçu** un pipeline ETL automatisé pour données LiDAR à l'échelle nationale (PDAL + PostgreSQL/PostGIS)  
+  - 🏷️ **Implémenté** la classification des nuages de points via K-Means et SAM (Segment Anything Model)  
+  - 🌐 **Développé** une interface de webmapping collaboratif avec gestion des conflits de version  
+  - ⚡ **Optimisé** l'indexation spatiale pour 10M+ points 3D (réduction de 40% du temps de requête)  
+  - 🛠️ Stack : Python (Pandas, Scikit-learn) • PDAL • PostGIS • Leaflet • OpenLayers
+
+------
+
+## 🛠️ Compétences Techniques
+
+**DevOps & Cloud** : Docker, Kubernetes, GitLab CI/CD, Ansible, Grafana, vSphere
+ **Géomatique** : ArcGIS, QGIS, LiDAR, SIG 3D, Webmapping, FME, PostGIS
+ **Développement** : Python (PyTorch, Django), C++, Node.js, Vue.js, REST API, InfluxDB
+ **IA & Analyse** : Deep Learning, Time Series (Prophet, SARIMA), Grad-CAM, Computer Vision
+
+------
+
+- ## 🏆 Projets Significatifs  
+
+  ### **Docker Swarm: Stockage Cloud Haute Disponibilité**  
+
+  *Projet de 8 personnes | ENSG 2025*  | **Lead Tech Database + Test **
+
+  - 🏗️ **Architecture distribuée** : Cluster Swarm + GlusterFS + MariaDB Galera  
+  - 👁️ **Monitoring temps-réel** : Prometheus + Grafana + Alertmanager  
+  - 📈 **Validation de performance** : Tests JMeter (99.95% uptime, 10K+ users simulés)  
+
+  ### **SIG 3D : Cute GIS**  
+
+  *Projet de 16 personnes | ENSG 2024*  | **PO Front **  
+
+  - 🗺️ **Application hybride 2D/3D** : Visualisation + calcul paramétrique de bâtiments  
+  - ⚙️ **Moteur géospatial** : OpenGL + GDAL + CityGML  
+  - 🚢 **Containerisation** : Docker + CI/CD GitLab  
+
+  ### **Classification Agricole par Deep Learning** | ENSG 2025
+
+  - 🛰️ **Innovation IA** : CNN 3D + CNN-TAE pour séries temporelles Sentinel-2  
+  - 📊 **Résultats quantifiés** : 84% accuracy • 71.4% mIoU  
+  - 🔍 **Interprétabilité** : Visualisation Grad-CAM des zones décisionnelles  
+
+  ### **Plateforme IoT Météo** | *ENSG 2025*
+
+  - 📡 **Architecture double** : Sonde (Raspberry Pi + capteurs) + Centrale (Vue.js)  
+  - ⚡ **Traitement temps-réel** : WebSockets + InfluxDB  
+  - 🗺️ **Cartographie interactive** : Visualisation Leaflet des sondes  
+  - 🔄 **API RESTful** : Architecture microservices avec Express.js  
+
+
+
+------
+
+## 🌍 Langues  
+
+- 🇫🇷 Français : DALF C1 (Courant professionnel)  
+- 🇬🇧 Anglais : C1 (Certification OLS)  
+- 🇨🇳 Mandarin & Cantonais : Langue maternelle  
+
+------
+
+## 🎓 Centres d'intérêt  
+
+- 🤖 Agentic AI & LLM (DeepSeek, Mistral, RAG systems)  
+- ⚙️ Automatisation low-code (n8n, Airflow)  
+- 🗺️ Cartographie web & urbanisme intelligent  
+- ☕ Intersection Tech ✕ Design ✕ Société  
+
