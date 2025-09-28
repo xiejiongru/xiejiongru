@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Who I Am
 I’m **XIE Jiongru**, MSc Geoinformatics @ ENSG.  
-I focus on **GIS Dev / DevOps / LIDAR / AI / Web IoT**.  
+I focus on **GIS Dev / DevOps / LIDAR / AI **.  
 
 > This GitHub is a **technical portfolio**: all repos showcase real projects, architecture, pipelines, and tech stack mastery.  
 
