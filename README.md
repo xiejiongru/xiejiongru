@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Jiongru XIE | GIS & DevOps / Fullstack Engineer</h1>
+  <h1>Jiongru XIE | GIS & DevOps Engineer</h1>
 </div>
 
 <div align="center">
