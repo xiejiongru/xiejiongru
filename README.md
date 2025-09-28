@@ -1,71 +1,58 @@
-<div align='center'><h1> Welcome to Jiongru`s Paradise :european_castle:</h1></div>
-<div align="center">
+<div align='center'>
+  <h1>Jiongru XIE | GIS & DevOps / Fullstack Engineer</h1>
 </div>
 
-<a href="mailto:jiongru.xie@ensg.eu" target="_blank" rel="nofollow">
-  <img align="right" alt="jiongru's Mail" width="22px" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" />
-</a>
-<a href="https://www.linkedin.com/in/xiejiongru/" target="_blank" rel="nofollow">
-  <img align="right" alt="jiongru's Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
-</a>
-<a href="https://instagram.com/xiejiongru" target="_blank" rel="nofollow">
-  <img align="right" alt="jiongru's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
-</a>
+<div align="center">
+  <a href="mailto:jiongru.xie@ensg.eu" target="_blank" rel="nofollow">
+    <img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/xiejiongru/" target="_blank" rel="nofollow">
+    <img alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
+  </a>
+</div>
 
-### Hello World👋 
-- :school: This is 谢 炯儒  ([XIE Jiongru](https://xiejiongru.github.io/)), I`m pursuing a **MSc Geoinformatic** at <a href="https://ensg.eu/fr">French National School of Geographic Sciences  </a>
-- 🔭 I’m currently working on  **GIS Development**, **LIDAR data**...
-- :neutral_face: I have a **love / hate** relationship with **Programming** <!-- - 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core** -->
-- 🤔 I’m looking for help with Algorithms 😭
-<!-- - 👨 Know more about me at [Instagram](https://sourcerer.io/jiongrusingh4522)  -->
-<!-- - 🌐 Visit my [porfolio website](https://jiongrusingh4522.github.io/) for complete background and contact. -->
+---
+
+### 👨‍💻 Who I Am
+I’m **XIE Jiongru**, MSc Geoinformatics @ ENSG.  
+I focus on **GIS Dev / DevOps / LIDAR / AI / Web IoT**.  
+
+> This GitHub is a **technical portfolio**: all repos showcase real projects, architecture, pipelines, and tech stack mastery.  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Data:** Python(PySpark, PyTorch), C++, TypeScript, JS, PostgreSQL/PostGIS, GeoServer  
+**Web & Frontend:** Vue.js, Node.js, Express.js, Leaflet, Three.js, PWA  
+**DevOps & Cloud:** GitHub Actions, CI/CD, Docker, Kubernetes, Ansible, Prometheus, Grafana  
+**GIS & Geospatial:** QGIS, ArcGIS, LiDAR, CloudCompare, Web Mapping  
+**AI & Analytics:** Deep Learning, Grad-CAM, Computer Vision, SARIMA, Time Series Analysis  
+**Other:** Linux, Qt, Figma, AutoCAD, LaTeX  
+
+---
+
+### 🚀 Selected Projects
+
+| Project | Description | Tech Highlights |
+|---------|-------------|----------------|
+| **Capacity Planning IDS @ Enedis** | Industrialized metrics, load testing, performance dashboards | Ansible, GitLab CI, Grafana, Elasticsearch, ETL pipelines |
+| **Critical Infrastructure DB @ eOnsight** | LiDAR integration, cleaning, classification & matching | Pandas, PDAL, SQLAlchemy, PostgreSQL, SAM, K-Means |
+| **Docker Swarm File Storage** | High availability online storage & editing | Docker Swarm, GlusterFS, Nextcloud, Prometheus, Grafana |
+| **Urban Furniture Management @ Coexya** | Mobile/Desktop app to manage & monitor urban furniture; routing & real-time sync | PWA, QField, PyQGIS, PostGIS |
+| **IoT Weather Monitoring** | Raspberry Pi sensor platform, REST API, dashboard, spatial mapping | Vue.js, Node.js, InfluxDB, WebSockets, Leaflet |
+| **3D GIS App (Cute GIS)** | 2D/3D visualization & processing, vector/raster layers, 3D buildings | C++, OpenGL, GDAL, CityGML, Docker, DevOps |
+| **Satellite Imagery Classification** | Multi-spectral time series, agricultural monitoring | CNN, LSTM, GRU, PyTorch, Grad-CAM |
 
 
-<h3 align="left">Languages and Tools:</h3>
+> All repos include **README, architecture diagrams, deployment instructions** where applicable.  
 
-- **Programming Languages**
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiejiongru&show_icons=true&locale=en" alt="xiejiongru" />
 </p>
-
-- **Web Development**
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="three.js" width="40" height="40"/>
-</a>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiejiongru&" alt="xiejiongru" />
 </p>
-
-- **Databases**
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  
-</p>
-
-- **DevOps**
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://docs.docker.com/engine/swarm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker swarm" width="40" height="40"/></a>
-</p>
-
-- **Design & Other Tools**
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-</p>
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiejiongru&show_icons=true&locale=en&layout=compact" alt="xiejiongru" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiejiongru&show_icons=true&locale=en" alt="xiejiongru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiejiongru&" alt="xiejiongru" /></p>
