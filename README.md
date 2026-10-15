@@ -34,15 +34,17 @@ I focus on **GIS Dev / DevOps / LIDAR / AI**.
 
 ### 🚀 Selected Projects
 
-| Project | Description | Tech Highlights |
-|---------|-------------|----------------|
-| **Capacity Planning IDS @ Enedis** | Industrialized metrics, load testing, performance dashboards | Ansible, GitLab CI, Grafana, Elasticsearch, ETL pipelines |
-| **Critical Infrastructure DB @ eOnsight** | LiDAR integration, cleaning, classification & matching | Pandas, PDAL, SQLAlchemy, PostgreSQL, SAM, K-Means |
-| **Docker Swarm File Storage** | High availability online storage & editing | Docker Swarm, GlusterFS, Nextcloud, Prometheus, Grafana |
-| **Urban Furniture Management @ Coexya** | Mobile/Desktop app to manage & monitor urban furniture; routing & real-time sync | PWA, QField, PyQGIS, PostGIS |
-| **IoT Weather Monitoring** | Raspberry Pi sensor platform, REST API, dashboard, spatial mapping | Vue.js, Node.js, InfluxDB, WebSockets, Leaflet |
-| **3D GIS App (Cute GIS)** | 2D/3D visualization & processing, vector/raster layers, 3D buildings | C++, OpenGL, GDAL, CityGML, Docker, DevOps |
-| **Satellite Imagery Classification** | Multi-spectral time series, agricultural monitoring | CNN, LSTM, GRU, PyTorch, Grad-CAM |
+🚀 Selected Projects
+
+Project| Description| Tech Highlights
+"Career Intelligence Portfolio" (url)| AI-native career intelligence system integrating automated job discovery, data processing, career knowledge management, and job matching| Python, CI/CD, GitHub Actions, Data Pipelines, AI Automation
+"Capacity Planning IDS @ Enedis" | Industrialized metrics, load testing, and performance dashboards| Ansible, GitLab CI, Grafana, Elasticsearch, ETL Pipelines
+"Critical Infrastructure DB @ eOnsight" | LiDAR integration, data cleaning, classification, and matching| Pandas, PDAL, SQLAlchemy, PostgreSQL, SAM, K-Means
+"Docker Swarm File Storage" | High-availability online storage and collaborative editing| Docker Swarm, GlusterFS, Nextcloud, Prometheus, Grafana
+"Urban Furniture Management @ Coexya" | Mobile and desktop application for urban furniture management, monitoring, routing, and real-time synchronization| PWA, QField, PyQGIS, PostGIS
+"IoT Weather Monitoring" | Raspberry Pi-based sensor platform with REST API, dashboard, and spatial mapping| Vue.js, Node.js, InfluxDB, WebSockets, Leaflet
+"3D GIS App (Cute GIS)" | 2D/3D visualization and processing of vector and raster layers, including 3D buildings| C++, OpenGL, GDAL, CityGML, Docker, DevOps
+"Satellite Imagery Classification" | Multispectral time-series analysis for agricultural monitoring| CNN, LSTM, GRU, PyTorch, Grad-CAM
 
 
 > All repos include **README, architecture diagrams, deployment instructions** where applicable.  
