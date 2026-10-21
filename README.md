@@ -3,20 +3,19 @@
 
   <h1>Jiongru XIE</h1>
   <h3>GIS · DevOps · AI Engineer</h3>
-  <p>MSc Geoinformatics @ ENSG — building geospatial platforms, data pipelines and cloud-native infrastructure.</p>
+  <p>MSc Geoinformatics @ ENSG — turning geospatial data into reliable production systems.</p>
 
   <p>
     <a href="mailto:jiongru.xie@ensg.eu"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/xiejiongru/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/xiejiongru/xiejiongru/blob/main/XIE_Jiongru_CV_stage_2025.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-0F766E?style=flat-square" /></a>
-    <a href="https://github.com/xiejiongru?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/All-Repositories-0F766E?style=flat-square&logo=github&logoColor=white" /></a>
     <img alt="Followers" src="https://img.shields.io/github/followers/xiejiongru?style=flat-square&label=Followers&color=0F766E" />
   </p>
 </div>
 
 ## 🧭 About
 
-I'm **XIE Jiongru**, a geospatial engineer focused on **GIS development, DevOps, LiDAR processing and AI**.
+I work end-to-end on geospatial systems — from data acquisition (LiDAR, satellite imagery, IoT sensors) to production infrastructure (CI/CD, containers, observability).
 
 This GitHub is my **technical portfolio** — every repository documents real projects: system architecture, data pipelines, deployment setup and the tech stack behind them.
 
@@ -40,9 +39,9 @@ This GitHub is my **technical portfolio** — every repository documents real pr
 | **Critical Infrastructure DB**<br><sub>_@ eOnsight · Pandas · PDAL · PostgreSQL · SAM · K-Means_</sub> | LiDAR data integration, cleaning, classification and matching for critical infrastructure |
 | **Docker Swarm File Storage**<br><sub>Docker Swarm · GlusterFS · Nextcloud · Prometheus</sub> | High-availability online storage with collaborative editing and monitoring |
 | **Urban Furniture Management**<br><sub>_@ Coexya · PWA · QField · PyQGIS · PostGIS_</sub> | Mobile & desktop app for urban furniture management, monitoring, routing and real-time synchronization |
-| **IoT Weather Monitoring**<br><sub>Vue.js · Node.js · InfluxDB · WebSockets · Leaflet</sub> | Raspberry Pi sensor platform with REST API, dashboard and spatial mapping |
+| [**IoT Weather Monitoring**](https://github.com/xiejiongru/projet_web)<br><sub>Vue.js · Node.js · InfluxDB · WebSockets · Leaflet</sub> | Raspberry Pi sensor platform with REST API, dashboard and spatial mapping |
 | **3D GIS App (Cute GIS)**<br><sub>C++ · OpenGL · GDAL · CityGML · Docker</sub> | 2D/3D visualization and processing of vector & raster layers, including 3D buildings |
-| **Satellite Imagery Classification**<br><sub>CNN · LSTM · GRU · PyTorch · Grad-CAM</sub> | Multispectral time-series analysis for agricultural monitoring |
+| [**Satellite Imagery Classification**](https://github.com/xiejiongru/DL_Raster)<br><sub>CNN · LSTM · GRU · PyTorch · Grad-CAM</sub> | Multispectral time-series analysis for agricultural monitoring |
 
 > All repositories include **README, architecture diagrams and deployment instructions** where applicable.
 > Full list → [github.com/xiejiongru](https://github.com/xiejiongru?tab=repositories)
@@ -58,17 +57,9 @@ This GitHub is my **technical portfolio** — every repository documents real pr
 ## 📬 Contact
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle"><img src="github_qr.png" width="110" alt="GitHub QR code" /></td>
-      <td align="left" valign="middle">
-        <b>Scan to visit my GitHub</b><br /><br />
-        📧 <a href="mailto:jiongru.xie@ensg.eu">jiongru.xie@ensg.eu</a><br />
-        🔗 <a href="https://www.linkedin.com/in/xiejiongru/">linkedin.com/in/xiejiongru</a><br />
-        📄 <a href="https://github.com/xiejiongru/xiejiongru/blob/main/XIE_Jiongru_CV_stage_2025.pdf">Download CV (PDF)</a>
-      </td>
-    </tr>
-  </table>
+  <img src="github_qr.png" width="110" alt="GitHub QR code" />
+
+  Scan to visit my GitHub profile — email, LinkedIn and CV links are at the top of this page.
 
   ⭐️ From [xiejiongru](https://github.com/xiejiongru/xiejiongru)
 </div>
