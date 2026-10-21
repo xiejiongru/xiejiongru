@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157002468?v=4&s=160" alt="Jiongru XIE" width="130" style="border-radius:50%;" />
+  <img src="avatar.png" width="130" alt="Jiongru XIE" />
 
   <h1>Jiongru XIE</h1>
   <h3>GIS · DevOps · AI Engineer</h3>
