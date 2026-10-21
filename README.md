@@ -6,7 +6,7 @@
   <p>MSc Geoinformatics @ ENSG — turning geospatial data into reliable production systems.</p>
 
   <p>
-    <a href="mailto:jiongru.xie@ensg.eu"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:xiejiongru@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/xiejiongru/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/xiejiongru/xiejiongru/blob/main/XIE_Jiongru_CV_stage_2025.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-0F766E?style=flat-square" /></a>
     <img alt="Followers" src="https://img.shields.io/github/followers/xiejiongru?style=flat-square&label=Followers&color=0F766E" />
