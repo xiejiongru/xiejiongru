@@ -32,16 +32,16 @@ This GitHub is my **technical portfolio** — every repository documents real pr
 
 ## 🚀 Selected Projects
 
-| Project | Description |
+| Project | What it delivers |
 | --- | --- |
 | [**Career Intelligence Portfolio**](https://github.com/xiejiongru/career-intelligence-portfolio)<br><sub>Python · GitHub Actions · AI Automation</sub> | Talent-intelligence pipeline — turns 21 fragmented job sources into one versioned, de-duplicated record contract, with change detection, explainable screening and privacy-safe sharing |
-| **Capacity Planning IDS**<br><sub>_@ Enedis · Ansible · GitLab CI · Grafana · Elasticsearch_</sub> | Industrialized metrics, load testing and performance dashboards for capacity planning |
-| **Critical Infrastructure DB**<br><sub>_@ eOnsight · Pandas · PDAL · PostgreSQL · SAM · K-Means_</sub> | LiDAR data integration, cleaning, classification and matching for critical infrastructure |
-| **Docker Swarm File Storage**<br><sub>Docker Swarm · GlusterFS · Nextcloud · Prometheus</sub> | High-availability online storage with collaborative editing and monitoring |
-| **Urban Furniture Management**<br><sub>_@ Coexya · PWA · QField · PyQGIS · PostGIS_</sub> | Mobile & desktop app for urban furniture management, monitoring, routing and real-time synchronization |
-| [**IoT Weather Monitoring**](https://github.com/xiejiongru/projet_web)<br><sub>Vue.js · Node.js · InfluxDB · WebSockets · Leaflet</sub> | Raspberry Pi sensor platform with REST API, dashboard and spatial mapping |
-| **3D GIS App (Cute GIS)**<br><sub>C++ · OpenGL · GDAL · CityGML · Docker</sub> | 2D/3D visualization and processing of vector & raster layers, including 3D buildings |
-| [**Satellite Imagery Classification**](https://github.com/xiejiongru/DL_Raster)<br><sub>CNN · LSTM · GRU · PyTorch · Grad-CAM</sub> | Multispectral time-series analysis for agricultural monitoring |
+| **Capacity Planning IDS**<br><sub>_@ Enedis · Ansible · GitLab CI · Grafana · Elasticsearch_</sub> | Consolidates four capacity signals — service config, contracts, production calls, load-test results — into one decision file for grid-infrastructure planning |
+| **Critical Infrastructure DB**<br><sub>_@ eOnsight · Pandas · PDAL · PostgreSQL · SAM · K-Means_</sub> | Turns raw LiDAR into cleaned, classified, queryable bridge and structure asset records, with a web map for inspection |
+| **Docker Swarm File Storage**<br><sub>Docker Swarm · GlusterFS · Nextcloud · Prometheus</sub> | High-availability file storage with collaborative editing, monitoring and load-tested scalability |
+| **Urban Furniture Management**<br><sub>_@ Coexya · PWA · QField · PyQGIS · PostGIS_</sub> | Field-to-office asset management: inspection routes, field capture and real-time/delayed sync on PostGIS |
+| [**IoT Weather Monitoring**](https://github.com/xiejiongru/projet_web)<br><sub>Vue.js · Node.js · InfluxDB · WebSockets · Leaflet</sub> | Device-to-dashboard telemetry: Raspberry Pi sensors → REST API → time-series store → live spatial map |
+| **3D GIS App (Cute GIS)**<br><sub>C++ · OpenGL · GDAL · CityGML · Docker</sub> | Explorable 2D/3D scenes from vector, raster and CityGML data, with layer processing |
+| [**Satellite Imagery Classification**](https://github.com/xiejiongru/DL_Raster)<br><sub>CNN · LSTM · GRU · PyTorch · Grad-CAM</sub> | Multispectral time-series classification for agriculture — 84% accuracy, 71.4% mIoU, with Grad-CAM explanations |
 
 > All repositories include **README, architecture diagrams and deployment instructions** where applicable.
 > Full list → [github.com/xiejiongru](https://github.com/xiejiongru?tab=repositories)
