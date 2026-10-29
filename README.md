@@ -19,6 +19,8 @@ I work end-to-end on geospatial systems — from data acquisition (LiDAR, satell
 
 This GitHub is my **technical portfolio** — every repository documents real projects: system architecture, data pipelines, deployment setup and the tech stack behind them.
 
+> **En bref (FR)** — Ingénieur GIS · DevOps · AI, je construis des systèmes géospatiaux de bout en bout : acquisition de données, pipelines et infrastructure de production. Ce GitHub rassemble des projets documentés (architecture, pipelines, déploiement).
+
 ## 🛠️ Tech Stack
 
 | Domain | Skills |
