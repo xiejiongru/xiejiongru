@@ -34,7 +34,7 @@ This GitHub is my **technical portfolio** — every repository documents real pr
 
 | Project | Description |
 | --- | --- |
-| [**Career Intelligence Portfolio**](https://github.com/xiejiongru/career-intelligence-portfolio)<br><sub>Python · GitHub Actions · AI Automation</sub> | AI-native career intelligence system — automated job discovery, data processing, career knowledge management and job matching |
+| [**Career Intelligence Portfolio**](https://github.com/xiejiongru/career-intelligence-portfolio)<br><sub>Python · GitHub Actions · AI Automation</sub> | Talent-intelligence pipeline — turns 21 fragmented job sources into one versioned, de-duplicated record contract, with change detection, explainable screening and privacy-safe sharing |
 | **Capacity Planning IDS**<br><sub>_@ Enedis · Ansible · GitLab CI · Grafana · Elasticsearch_</sub> | Industrialized metrics, load testing and performance dashboards for capacity planning |
 | **Critical Infrastructure DB**<br><sub>_@ eOnsight · Pandas · PDAL · PostgreSQL · SAM · K-Means_</sub> | LiDAR data integration, cleaning, classification and matching for critical infrastructure |
 | **Docker Swarm File Storage**<br><sub>Docker Swarm · GlusterFS · Nextcloud · Prometheus</sub> | High-availability online storage with collaborative editing and monitoring |
