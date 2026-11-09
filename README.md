@@ -55,13 +55,3 @@ This GitHub is my **technical portfolio** — every repository documents real pr
   <img height="165" src="https://streak-stats.demolab.com?user=xiejiongru&hide_border=true&background=ffffff&stroke=0F766E&ring=0F766E&fire=0F766E&currStreakNum=0F766E&sideNums=4B5563&currStreakLabel=0F766E&sideLabels=4B5563&dates=9CA3AF&excludeDaysLabel=9CA3AF" alt="xiejiongru streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiejiongru&layout=compact&hide_border=true&title_color=0F766E&text_color=4B5563" alt="xiejiongru top languages" />
 </p>
-
-## 📬 Contact
-
-<div align="center">
-  <img src="github_qr.png" width="110" alt="GitHub QR code" />
-
-  Scan to visit my GitHub profile — email, LinkedIn and CV links are at the top of this page.
-
-  ⭐️ From [xiejiongru](https://github.com/xiejiongru/xiejiongru)
-</div>
